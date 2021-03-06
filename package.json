@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/javeranga/simulacros.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["examen","simulacro"],
+  "author": "javeranga",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/javeranga/simulacros/issues"
